@@ -27,3 +27,4 @@ wget
 
 #manual copy few lines into csgoserver
 #manual copy of gamemodes.txt
+#manual add line to csgoserver with token
