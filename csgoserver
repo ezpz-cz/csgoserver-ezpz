@@ -17,8 +17,8 @@ version="210516"
 # (on|off)
 
 # Email
-emailalert="off"
-email="biosek@email.cz admin@ezpz.cz fg-42@seznam.cz"
+emailalert="on"
+email="biosek@email.cz,admin@ezpz.cz,fg-42@seznam.cz"
 emailfrom="no-reply@ezpz.cz"
 
 # Pushbullet
